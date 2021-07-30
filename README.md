@@ -16,4 +16,5 @@ If you'd like to help solve the mystery, the best place to start is by [reading 
 If you have ideas about the clues and you don't see them reflected in the repository, __please submit a pull request__ and we will add them!
 
 Thanks for hunting,
+
 \- Casey
