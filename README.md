@@ -5,7 +5,7 @@ Thanks to [Jason Dyer](https://twitter.com/jdyer)'s excellent blog [Renga in Blu
 
 In this obscure game for the Apple \]\[ home computer, the "player" is presented with a maze to explore.  On the walls, ceiling, and floor of the maze are written clues to the location of a "treasure" buried by the developers in the real world.  It was meant to be found by a player, dug up, and presented back to the developer for a reward of $5000.  But the game flopped, and nobody ever found (or perhaps even looked for) the treasure.
 
-Which means __the treasure is still out there, waiting to be found__.
+Which means __it's still out there, waiting to be found__.
 
 # About this repository
 
