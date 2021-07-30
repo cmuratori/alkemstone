@@ -18,3 +18,5 @@ If you have ideas about the clues and you don't see them reflected in the reposi
 Thanks for hunting,
 
 \- Casey
+
+PS. Special thanks go to Andy Boroson, who modified the original source code to the game in order to get the clean set of clue screenshots on which this repository is based.
