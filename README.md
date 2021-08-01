@@ -13,6 +13,8 @@ Those of us who can't let an unsolved puzzle lie have decided to try to find the
 
 If you'd like to help solve the mystery, the best place to start is by [reading Jason's first blog post describing the game](https://bluerenga.blog/2020/02/05/alkemstone-1980/).  From there, it should be fairly clear what the contents of the repository mean.
 
+The Photoshop file brings all screenshots into one layered image. Layers are named as `## - Description` where `##` is the corresponding screenshot number and `Description` repeats the image text when possible. Layer visibility is set to `off` but all clue layers are set to `Lighten` mode. This allows one to simply turn on visibility for any number of layers and see them overlaid, in the hopes of finding new patterns from such image compositions. Combining images #18 and #21 in this way forms a compelling argument for this method of discovery.
+
 If you have ideas about the clues and you don't see them reflected in the repository, __please submit a pull request__ and we will add them!
 
 Thanks for hunting,
