@@ -216,6 +216,24 @@
                     38.89121927955583
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Leonardo's painting of Ginevra de' Benci with juniper",
+                "location_description": "West Building of National Gallery of Art",
+                "hint_number": 48,
+                "hint_text": "pnijure",
+                "game_grid_x": 7,
+                "game_grid_y": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02079858579323,
+                    38.89102071496657
+                ]
+            }
         }
     ]
 }

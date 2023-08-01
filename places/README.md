@@ -1,10 +1,10 @@
 # Places (possibly) connected to Alkemstone
 
-These files contain coordinates of places that seem to be referenced by clues in Alkemstone. The CSV and GeoJSON files with the same names contain essentially the same data in different forms. You should be able to plot the locations on a map by viewing either file type at [GeoJSON.io](http://geojson.io/). The CSV should be easier to read and edit, but GeoJSON gives you the added ability to draw lines and shapes on the map.
+These files contain coordinates of places that seem to be referenced by clues in Alkemstone. The CSV and GeoJSON files with the same names contain essentially the same data in different forms. You should be able to plot the locations on a map by viewing either file type at [GeoJSON.io](http://geojson.io/). The CSV should be easier to read and edit, but GeoJSON gives you the added ability to draw lines and shapes on the map. This data might be useful if any of the puzzles in Alkemstone involve somehow aligning features of the game grid onto a real map of Washington.
 
 It might not be obvious why all the locations are considered potential riddle solutions, but background discussion can be found on the [Renga in Blue blog](https://bluerenga.blog/tag/alkemstone/?order=ASC) (including the linked spreadsheet of images and theories).
 
-At the moment, all the mapped locations are in Washington, DC.
+At the moment, all the mapped locations are in Washington, DC. The coordinates are far less precise than the number of digits would suggest.
 
 ## Column Definitions
 
