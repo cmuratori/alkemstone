@@ -1,0 +1,296 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Grave of John F. Kennedy (Unknown to 1864-05-16)",
+                "location_description": "Arlington Section 27 Near Ord & Weitzel Gate",
+                "hint_number": 1,
+                "hint_text": "John F Kennedy",
+                "game_grid_x": 3,
+                "game_grid_y": 9,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06807180300284,
+                    38.88726641184445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Grave of John F. Kennedy (Unknown to 1864-06-11)",
+                "location_description": "Arlington Section 27 East of residence at 218 Ord & Weitzel",
+                "hint_number": 1,
+                "hint_text": "John F Kennedy",
+                "game_grid_x": 5,
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06842638362943,
+                    38.88712942699389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Grave of John F. Kennedy (1885-06-10 to 1958-07-30)",
+                "location_description": "Arlington Section 39",
+                "hint_number": 1,
+                "hint_text": "John F Kennedy",
+                "game_grid_x": 6,
+                "game_grid_y": 7,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06810656960755,
+                    38.88562282510155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Grave of President John F. Kennedy",
+                "location_description": "Arlington Eternal Flame Monument",
+                "hint_number": 1,
+                "hint_text": "John F Kennedy",
+                "game_grid_x": 25,
+                "game_grid_y": 14,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07147025470242,
+                    38.88153022107394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "John F. Kennedy Center for the Performing Arts",
+                "location_description": "Between Potomac River and Potomac Freeway",
+                "hint_number": 1,
+                "hint_text": "John F Kennedy",
+                "game_grid_x": "",
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2020/02/07/alkemstone-still-searching/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0556546483294,
+                    38.89590615641683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "McClellan Gate",
+                "location_description": "McClellan Avenue by former entrance to cemetery",
+                "hint_number": "38 or 63",
+                "hint_text": "'Coat Of Blue' or 'Don't Tread On Me'",
+                "game_grid_x": "",
+                "game_grid_y": "",
+                "discussion": "https://docs.google.com/spreadsheets/d/1KSpxIFGAZFiWY22Mw97dNzIEFusBJvfZTIjyUgTyK4U/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06715093602779,
+                    38.87881370254854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Albert Einstein Memorial",
+                "location_description": "NE corner of 22nd Street and Constitution Avenue",
+                "hint_number": "72 or Intro C",
+                "hint_text": "'a billion stars may show you the way' or 'LOOK TO ALBERT FOR HELP'",
+                "game_grid_x": "",
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2020/02/06/alkemstone-more-clues/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0484375454145,
+                    38.89240456527838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "'I have a dream' speech site",
+                "location_description": "Lincoln Memorial steps",
+                "hint_number": "24 or 25",
+                "hint_text": "(picture of stick figure at lectern) or 'BLACK or WHITE They Are All The Same To Me'",
+                "game_grid_x": "",
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04980105219448,
+                    38.88927498466168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Washington Monument",
+                "location_description": "East side of National Mall reflecting pool",
+                "hint_number": 8,
+                "hint_text": "Denver/10",
+                "game_grid_x": 22,
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03525305323089,
+                    38.889464958590054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "National Museum of Natural History",
+                "location_description": "NW Madison Drive between 9th St and 12th St",
+                "hint_number": 81,
+                "hint_text": "If You Want A Scene Holocene and Pliestocene Might Do",
+                "game_grid_x": 24,
+                "game_grid_y": 10,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02591496129924,
+                    38.89096806635865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "National Air and Space Museum",
+                "location_description": "Jefferson Drive south of National Mall",
+                "hint_number": 72,
+                "hint_text": "a billion stars may show you the way",
+                "game_grid_x": 13,
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01952626541902,
+                    38.88819651989144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Ruby slippers exhibit at National Museum of American History",
+                "location_description": "Madison Drive between 12th Street and 14th Street",
+                "hint_number": 71,
+                "hint_text": "Wherever You May Roam There Is No Place Like Home",
+                "game_grid_x": 18,
+                "game_grid_y": 6,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03001473414133,
+                    38.89121927955583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "Leonardo's painting of Ginevra de' Benci with juniper",
+                "location_description": "West Building of National Gallery of Art",
+                "hint_number": 48,
+                "hint_text": "pnijure",
+                "game_grid_x": 7,
+                "game_grid_y": 17,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02079858579323,
+                    38.89102071496657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "D.C. War Memorial",
+                "location_description": "South side of National Mall",
+                "hint_number": 15,
+                "hint_text": "144",
+                "game_grid_x": 31,
+                "game_grid_y": 1,
+                "discussion": "https://bluerenga.blog/2020/02/12/alkemstone-wandering/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04348950845021,
+                    38.88756848615468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "from Washington Monument toward Vietnam Veterans Memorial",
+                "location_description": "a line heading west across the north side of the National Mall starting from the Washington Monument",
+                "hint_number": 69,
+                "hint_text": "follow your nose / where taylor goes / but not too far / you'll find a scar",
+                "game_grid_x": 30,
+                "game_grid_y": 13,
+                "discussion": "https://bluerenga.blog/2020/02/06/alkemstone-more-clues/#comments"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -77.03524296892857,
+                        38.88947940553237
+                    ],
+                    [
+                        -77.048103577264,
+                        38.89090620456804
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}
