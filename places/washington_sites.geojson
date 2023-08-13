@@ -9,7 +9,8 @@
                 "hint_number": 1,
                 "hint_text": "John F Kennedy",
                 "game_grid_x": 3,
-                "game_grid_y": 9
+                "game_grid_y": 9,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "hint_number": 1,
                 "hint_text": "John F Kennedy",
                 "game_grid_x": 5,
-                "game_grid_y": 8
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "hint_number": 1,
                 "hint_text": "John F Kennedy",
                 "game_grid_x": 6,
-                "game_grid_y": 7
+                "game_grid_y": 7,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "hint_number": 1,
                 "hint_text": "John F Kennedy",
                 "game_grid_x": 25,
-                "game_grid_y": 14
+                "game_grid_y": 14,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "hint_number": 1,
                 "hint_text": "John F Kennedy",
                 "game_grid_x": "",
-                "game_grid_y": ""
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2020/02/07/alkemstone-still-searching/"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +104,8 @@
                 "hint_number": "38 or 63",
                 "hint_text": "'Coat Of Blue' or 'Don't Tread On Me'",
                 "game_grid_x": "",
-                "game_grid_y": ""
+                "game_grid_y": "",
+                "discussion": "https://docs.google.com/spreadsheets/d/1KSpxIFGAZFiWY22Mw97dNzIEFusBJvfZTIjyUgTyK4U/"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +123,8 @@
                 "hint_number": "72 or Intro C",
                 "hint_text": "'a billion stars may show you the way' or 'LOOK TO ALBERT FOR HELP'",
                 "game_grid_x": "",
-                "game_grid_y": ""
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2020/02/06/alkemstone-more-clues/"
             },
             "geometry": {
                 "type": "Point",
@@ -133,9 +140,10 @@
                 "landmark": "'I have a dream' speech site",
                 "location_description": "Lincoln Memorial steps",
                 "hint_number": "24 or 25",
-                "hint_text": "(picture of stick figure at lectern) or 'BLACK or WHITE They Are All The Same To Me",
+                "hint_text": "(picture of stick figure at lectern) or 'BLACK or WHITE They Are All The Same To Me'",
                 "game_grid_x": "",
-                "game_grid_y": ""
+                "game_grid_y": "",
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "hint_number": 8,
                 "hint_text": "Denver/10",
                 "game_grid_x": 22,
-                "game_grid_y": 8
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "hint_number": 81,
                 "hint_text": "If You Want A Scene Holocene and Pliestocene Might Do",
                 "game_grid_x": 24,
-                "game_grid_y": 10
+                "game_grid_y": 10,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +199,8 @@
                 "hint_number": 72,
                 "hint_text": "a billion stars may show you the way",
                 "game_grid_x": 13,
-                "game_grid_y": 8
+                "game_grid_y": 8,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/"
             },
             "geometry": {
                 "type": "Point",
@@ -207,7 +218,8 @@
                 "hint_number": 71,
                 "hint_text": "Wherever You May Roam There Is No Place Like Home",
                 "game_grid_x": 18,
-                "game_grid_y": 6
+                "game_grid_y": 6,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +237,8 @@
                 "hint_number": 48,
                 "hint_text": "pnijure",
                 "game_grid_x": 7,
-                "game_grid_y": 17
+                "game_grid_y": 17,
+                "discussion": "https://bluerenga.blog/2021/07/27/alkemstone-all-the-clues/#comments"
             },
             "geometry": {
                 "type": "Point",
@@ -241,9 +254,10 @@
                 "landmark": "D.C. War Memorial",
                 "location_description": "South side of National Mall",
                 "hint_number": 15,
-                "hint_text": "144",
+                "hint_text": 144,
                 "game_grid_x": 31,
-                "game_grid_y": 1
+                "game_grid_y": 1,
+                "discussion": "https://bluerenga.blog/2020/02/12/alkemstone-wandering/"
             },
             "geometry": {
                 "type": "Point",
