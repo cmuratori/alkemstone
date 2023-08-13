@@ -234,6 +234,24 @@
                     38.89102071496657
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landmark": "D.C. War Memorial",
+                "location_description": "South side of National Mall",
+                "hint_number": 15,
+                "hint_text": "144",
+                "game_grid_x": 31,
+                "game_grid_y": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04348950845021,
+                    38.88756848615468
+                ]
+            }
         }
     ]
 }
